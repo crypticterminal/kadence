@@ -1,3 +1,5 @@
+<h1 align="center">:warning: KADENCE HAS MOVED TO <a href="https://gitlab.com/kadence">GITLAB</a> :warning:</h1>
+
 <p align="center" class="docstrap-hideme">
   <a href="https://kadence.gitlab.io"><img src="https://assets.gitlab-static.net/uploads/-/system/group/avatar/3071188/36767738.png"></a>
 </p>
